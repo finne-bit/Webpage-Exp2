@@ -257,8 +257,6 @@ footer p {
 /* Container slider */
 .slider-container {
     position: relative;
-    max-width: 600px;
-    height: 200;
     overflow: hidden;
     margin: auto;
 }
